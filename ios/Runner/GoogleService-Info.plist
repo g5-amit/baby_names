@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>632863790954-cibgm3ik8fi3ctad4c5cv4ni93ppl67a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.632863790954-cibgm3ik8fi3ctad4c5cv4ni93ppl67a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMCuwvIE2zTY2f9fy2JliKm-mTk2qSY-Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>632863790954</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tech.business.babyNames</string>
+	<key>PROJECT_ID</key>
+	<string>babynames-flutter-a974f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>babynames-flutter-a974f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:632863790954:ios:92be88765cc50d2f48f713</string>
+	<key>DATABASE_URL</key>
+	<string>https://babynames-flutter-a974f.firebaseio.com</string>
+</dict>
+</plist>
