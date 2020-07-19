@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "632863790954",
+    "firebase_url": "https://babynames-flutter-a974f.firebaseio.com",
+    "project_id": "babynames-flutter-a974f",
+    "storage_bucket": "babynames-flutter-a974f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632863790954:android:0f6f4d1780c0f60948f713",
+        "android_client_info": {
+          "package_name": "com.tech.business.baby_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632863790954-40jiqult2uueogiioi8g5pe1652o73rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatXRNM4bHkoKjBv8AYVSmU-f5jFJQ4MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632863790954-40jiqult2uueogiioi8g5pe1652o73rk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "632863790954-cibgm3ik8fi3ctad4c5cv4ni93ppl67a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tech.business.babyNames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
